@@ -1,1 +1,1 @@
-import './js/codewars/codewars';
+import './js';
