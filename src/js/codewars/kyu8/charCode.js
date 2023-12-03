@@ -1,5 +1,4 @@
 const str = '<h2>Hello World</h2>';
-
 function htmlspecialchars(formData) {
   return formData
     .split('')
