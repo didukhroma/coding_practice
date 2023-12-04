@@ -21,3 +21,4 @@ console.log('kyu-6');
 // import './multiplicationTable';//*--done
 // import './sumsOfParts';//*--done
 // import './tripleTrouble';//!-must complete
+// import './oneVariableSecondDegreeEquationSolver';
