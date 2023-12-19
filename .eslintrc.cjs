@@ -10,7 +10,7 @@ module.exports = {
     'plugin:eslint-plugin-import/warnings',
   ],
   parserOptions: {
-    ecmaVersion: 12,
+    ecmaVersion: 14,
     sourceType: 'module',
   },
   plugins: ['import'],
