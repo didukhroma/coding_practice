@@ -33,3 +33,4 @@ console.log('kyu-7');
 // import './timeForMilkAndCookies'//*--done
 // import './fibonacciFizzBuzz';//*--done
 // import './tripleShiftianNumbers';
+import './quickSum'
