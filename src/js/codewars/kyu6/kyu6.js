@@ -22,3 +22,4 @@ console.log('kyu-6');
 // import './sumsOfParts';//*--done
 // import './tripleTrouble';//!-must complete
 // import './oneVariableSecondDegreeEquationSolver';
+import './howMuchHexIsTheFish';

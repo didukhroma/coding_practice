@@ -34,4 +34,7 @@ console.log('kyu-7');
 // import './fibonacciFizzBuzz';//*--done
 // import './tripleShiftianNumbers';
 // import './quickSum'
-import './centroid';
+// import './centroid';
+// import './spiralingBox'; //!---------
+// import './calculateMealTotal';
+// import './isEveryValueInArrayAnArray';//*--done
