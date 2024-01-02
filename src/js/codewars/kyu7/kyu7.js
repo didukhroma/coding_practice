@@ -38,3 +38,4 @@ console.log('kyu-7');
 // import './spiralingBox'; //!---------
 // import './calculateMealTotal';
 // import './isEveryValueInArrayAnArray';//*--done
+// import './isTriangle';//*--done

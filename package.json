@@ -8,7 +8,7 @@
     "build": "vite build --base=/coding_practice/",
     "preview": "vite preview",
     "scommit": " git status  && git commit -a -m `kyu-6-longestPalindrome`",
-    "dcommit": "git status  && git add . && git commit  -m `kyu-6-howMuchHexIsTheFish-done`",
+    "dcommit": "git status  && git add . && git commit  -m `kyu-6-twoSum-done` && git push origin main",
     "push": "git push origin main",
     "lint": "eslint --ext .js,.ts ."
   },
