@@ -24,4 +24,5 @@ console.log('kyu-6');
 // import './oneVariableSecondDegreeEquationSolver';
 // import './howMuchHexIsTheFish';//*--done
 // import './twoSum';//*--done
-import './theLatestClock';
+// import './theLatestClock';//!-must complete
+// import './isomorphicWords';//*--done
