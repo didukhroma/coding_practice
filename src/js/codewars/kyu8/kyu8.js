@@ -34,3 +34,4 @@ console.log('kyu-8');
 // import './whatsNext'; //! must comlete
 // import './removeTheTime'//*--done
 // import './determineSexOnGenes'//*--done
+import './fuelCalculator';
