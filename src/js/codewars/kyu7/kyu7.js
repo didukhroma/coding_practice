@@ -59,3 +59,4 @@ console.log('kyu-7');
 // import './basicMathAddOrSubtract'; //!----------
 // import './easyWallpaper'//*--done
 // import './catAndMouse';//*--done
+// import './howManyArguments.js';//*--done
