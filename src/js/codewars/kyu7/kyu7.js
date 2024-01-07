@@ -39,4 +39,5 @@ console.log('kyu-7');
 // import './calculateMealTotal';
 // import './isEveryValueInArrayAnArray';//*--done
 // import './isTriangle';//*--done
-import './sortAndTransform';
+// import './sortAndTransform';//*--done
+// import './findTheVowels';//todo done must to understand
