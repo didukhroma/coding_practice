@@ -10,7 +10,8 @@
     "scommit": " git status  && git commit -a -m `kyu-6-longestPalindrome`",
     "dcommitsi": "git status  && git add . && git commit  -m `kyu-6-houseOfCards-done` && git push origin main",
     "dcommitse": "git status  && git add . && git commit  -m `kyu-7-findDigitOfNumber-done` && git push origin main", 
-    "dcommitei": "git status  && git add . && git commit  -m `kyu-8-raintAmount-done` && git push origin main",    
+    "dcommitei": "git status  && git add . && git commit  -m `kyu-8-raintAmount-done` && git push origin main", 
+    "dcommitit": "git status  && git add . && git commit  -m `interesting-task-decodeMessage-done` && git push origin main",    
     "push": "git push origin main",
     "lint": "eslint --ext .js,.ts ."
   },
