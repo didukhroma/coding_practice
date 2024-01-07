@@ -41,3 +41,4 @@ console.log('kyu-7');
 // import './isTriangle';//*--done
 // import './sortAndTransform';//*--done
 // import './findTheVowels';//todo done must to understand
+// import './switcherNumbersToLetters'//*--done
