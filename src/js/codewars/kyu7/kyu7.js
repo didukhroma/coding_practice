@@ -42,3 +42,4 @@ console.log('kyu-7');
 // import './sortAndTransform';//*--done
 // import './findTheVowels';//todo done must to understand
 // import './switcherNumbersToLetters'//*--done
+// import './findDigitOfNumber';//*--done
