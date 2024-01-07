@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "scommit": " git status  && git commit -a -m `kyu-6-longestPalindrome`",
     "dcommitsi": "git status  && git add . && git commit  -m `kyu-6-houseOfCards-done` && git push origin main",
-    "dcommitse": "git status  && git add . && git commit  -m `kyu-7-cantBeatSoJoin-done` && git push origin main", 
+    "dcommitse": "git status  && git add . && git commit  -m `kyu-7-sortAndTransform-done` && git push origin main", 
     "dcommitei": "git status  && git add . && git commit  -m `kyu-8-raintAmount-done` && git push origin main",    
     "push": "git push origin main",
     "lint": "eslint --ext .js,.ts ."
