@@ -37,3 +37,4 @@ console.log('kyu-8');
 // import './fuelCalculator';//*--done
 // import './rainAmount';//*--done
 // import './printerArraysElementWithDelimiter'//*--done
+import './colorGhost';
