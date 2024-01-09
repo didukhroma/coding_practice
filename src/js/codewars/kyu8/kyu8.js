@@ -40,3 +40,4 @@ console.log('kyu-8');
 // import './colorGhost';//*--done
 // import './flickSwitch';//*--done
 // import './whoseMove';//*--done
+import './whoAteCoockie'; //*--done
