@@ -148,8 +148,3 @@ class Slider {
 }
 const slider = new Slider(container, cats);
 slider.init();
-
-const foo = (a, b, c) => foo2(a, b) + c;
-console.log(foo);
-const foo2 = (a, b) => a + b;
-console.log(foo(1, 2, 3));
