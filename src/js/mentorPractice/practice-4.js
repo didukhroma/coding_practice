@@ -10,3 +10,12 @@ console.log('practice-4');
 // import name from './db';//?
 // name();
 //------------------------------------------
+
+const user = {
+  username: 'Mango',
+  showName() {
+    console.log(this.username);
+  },
+};
+const json = JSON.stringify(user);
+console.log(json);
