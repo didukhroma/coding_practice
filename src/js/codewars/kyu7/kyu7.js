@@ -43,3 +43,4 @@ console.log('kyu-7');
 // import './findTheVowels';//todo done must to understand
 // import './switcherNumbersToLetters'//*--done
 // import './findDigitOfNumber';//*--done
+// import './printerErrors';//*--done
