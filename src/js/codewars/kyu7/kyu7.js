@@ -44,3 +44,4 @@ console.log('kyu-7');
 // import './switcherNumbersToLetters'//*--done
 // import './findDigitOfNumber';//*--done
 // import './printerErrors';//*--done
+import './multiplicativePersistence';
