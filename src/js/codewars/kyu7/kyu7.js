@@ -46,3 +46,4 @@ console.log('kyu-7');
 // import './printerErrors';//*--done
 // import './multiplicativePersistence';//*--done
 // import './candyProblem';//*--done
+// import './maximumProduct';//*--done
