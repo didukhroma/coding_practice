@@ -42,3 +42,8 @@
 .slide.active {
   display: block;
 }
+
+.mark-done {
+  text-decoration: line-through;
+  background-color: green;
+}
