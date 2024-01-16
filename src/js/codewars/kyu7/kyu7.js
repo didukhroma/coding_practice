@@ -47,4 +47,5 @@ console.log('kyu-7');
 // import './multiplicativePersistence';//*--done
 // import './candyProblem';//*--done
 // import './maximumProduct';//*--done
-import './isFlush';
+// import './isFlush';//*--done
+// import './fixMyPhoneNumbers';//*--done
