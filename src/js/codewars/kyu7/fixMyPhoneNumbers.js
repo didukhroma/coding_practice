@@ -23,3 +23,8 @@ console.log(
   isItANum('stop calling me no I have never been in an accident'),
   'Not a phone number'
 );
+console.log(isItANum('S:)0207ERGQREG88349F82!efRF)'), '02078834982');
+console.log(
+  isItANum('stop calling me no I have never been in an accident'),
+  'Not a phone number'
+);
