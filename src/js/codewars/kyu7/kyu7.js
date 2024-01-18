@@ -49,4 +49,5 @@ console.log('kyu-7');
 // import './maximumProduct';//*--done
 // import './isFlush';//*--done
 // import './fixMyPhoneNumbers';//*--done
-import './howManyAreSmallerThanMe';
+// import './howManyAreSmallerThanMe';//*--done
+// import './theSpeedOfLetters';//*--done
