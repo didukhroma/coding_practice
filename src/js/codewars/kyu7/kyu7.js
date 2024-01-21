@@ -52,3 +52,4 @@ console.log('kyu-7');
 // import './howManyAreSmallerThanMe';//*--done
 // import './theSpeedOfLetters';//*--done
 // import './reverser';//*--done
+import './scrollingText';
