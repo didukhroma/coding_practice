@@ -10,7 +10,7 @@
     "scommit": " git status  && git commit -a -m `kyu-6-longestPalindrome`",
     "dcommitfive": "git status  && git add . && git commit  -m `kyu-5-hexStringToRGB-done` && git push origin main",
     "dcommitsix": "git status  && git add . && git commit  -m `kyu-6-houseOfCards-done` && git push origin main",
-    "dcommitseven": "git status  && git add . && git commit  -m `kyu-7-scrollingText-done` && git push origin main", 
+    "dcommitseven": "git status  && git add . && git commit  -m `kyu-7-evenOrOdd-done` && git push origin main", 
     "dcommiteight": "git status  && git add . && git commit  -m `kyu-8-bigTooSmall-done` && git push origin main", 
     "dcommitit": "git status  && git add . && git commit  -m `interesting-task-decodeMessage-done` && git push origin main",    
     "push": "git push origin main",
