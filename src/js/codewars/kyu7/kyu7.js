@@ -54,3 +54,5 @@ console.log('kyu-7');
 // import './reverser';//*--done
 // import './scrollingText';//*--done
 // import './evenOrOdd';//*--done
+// import './powerOfFour';//!-----------
+// import './catchSignChange';//*--done
