@@ -54,7 +54,7 @@ console.log('kyu-7');
 // import './reverser';//*--done
 // import './scrollingText';//*--done
 // import './evenOrOdd';//*--done
-// import './powerOfFour';//!-----------
+// import './powerOfFour'; //*--done
 // import './catchSignChange';//*--done
-// import './basicMathAddOrSubtract';//!----------
+// import './basicMathAddOrSubtract'; //!----------
 // import './easyWallpaper'//*--done

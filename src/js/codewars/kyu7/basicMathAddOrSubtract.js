@@ -1,22 +1,25 @@
 console.log('kyu-7-basicMathAddOrSubtract.js');
+
 function calculate(str, res = 0) {
-  let operation = null;
-  str
-    .replace(/plus/g, '+')
-    .replace(/minus/g, '-')
-    .split('')
-    .forEach(element => {
-      if (!operation) {
-        res += Number(element);
-      } else if (Number.isNaN(element)) {
-        operation = element;
+  const arr = str.replace(/plus/g, '+').replace(/minus/g, '-').split('');
+
+  for (let i = 0; i < arr.length; i += 2) {
+    if (i === 0) {
+      if (Number(arr[i])) {
+        res += Number(arr[i]);
+        continue;
       } else {
-        res += operation === '+' ? Number(element) : Number(element * -1);
+        i = -1;
+        continue;
       }
-    });
-  return res;
+    }
+    res += arr[i - 1] === '+' ? Number(arr[i]) : Number(arr[i] * -1);
+  }
+
+  return String(res);
 }
 
-console.log(calculate('1plus2plus3plus4'), '10');
-console.log(calculate('1minus2minus3minus4'), '-8');
-console.log(calculate('1plus2plus3minus4'), '2');
+// console.log(calculate('1plus2plus3plus4'), '10');
+// console.log(calculate('1minus2minus3minus4'), '-8');
+// console.log(calculate('1plus2plus3minus4'), '2');
+console.log(calculate('plus2plus3plus4'), '9');
