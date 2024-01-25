@@ -56,3 +56,5 @@ console.log('kyu-7');
 // import './evenOrOdd';//*--done
 // import './powerOfFour';//!-----------
 // import './catchSignChange';//*--done
+// import './basicMathAddOrSubtract';//!----------
+// import './easyWallpaper'//*--done
