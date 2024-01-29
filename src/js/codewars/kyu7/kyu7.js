@@ -58,3 +58,4 @@ console.log('kyu-7');
 // import './catchSignChange';//*--done
 // import './basicMathAddOrSubtract'; //!----------
 // import './easyWallpaper'//*--done
+// import './catAndMouse';//*--done
