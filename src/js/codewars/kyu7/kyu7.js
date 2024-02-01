@@ -62,3 +62,4 @@ console.log('kyu-7');
 // import './howManyArguments.js';//*--done
 // import './findDuplicates';//*--done
 // import './arrayArrayArray';//*--done
+// import './factorial';//*--done
