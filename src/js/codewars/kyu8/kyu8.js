@@ -43,3 +43,4 @@ console.log('kyu-8');
 // import './whoAteCoockie'; //*--done
 // import './whosNext.js'; //! must comlete
 // import './bigTooSmall'; //*--done
+// import './daysInTheYear';//*--done
