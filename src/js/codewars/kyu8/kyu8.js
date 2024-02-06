@@ -45,3 +45,4 @@ console.log('kyu-8');
 // import './bigTooSmall'; //*--done
 // import './daysInTheYear';//*--done
 // import './finishGuessTheNumberGame'//*--done
+// import './trainingJS12'//*--done
