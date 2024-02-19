@@ -47,3 +47,4 @@ console.log('kyu-8');
 // import './finishGuessTheNumberGame'//*--done
 // import './trainingJS12'//*--done
 // import './trainingJS5';//*--done
+// import './geometryBasics'//*--done
