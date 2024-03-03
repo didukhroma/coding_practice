@@ -64,3 +64,4 @@ console.log('kyu-7');
 // import './arrayArrayArray';//*--done
 // import './factorial';//*--done
 // import './areTheNumbersInOrder';//*--done
+// import './resistorColorCodes';//*--done
