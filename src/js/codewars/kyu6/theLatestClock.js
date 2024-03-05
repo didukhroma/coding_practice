@@ -1,37 +1,35 @@
 console.log('kyu-6-theLatestClock.js');
-function latestClock(a, b, c, d) {
-  const combinations = [
-    [
-      [a, b],
-      [c, d],
-    ],
-    [
-      [a, c],
-      [b, d],
-    ],
-    [
-      [a, d],
-      [b, c],
-    ],
-  ];
 
-  const res = Math.max(
-    ...combinations.flatMap(item =>
-      [
-        `${item[0].join('')}${item[1].join('')}`,
-        `${item[1].join('')}${item[0].join('')}`,
-        `${item[0].reverse().join('')}${item[1].join('')}`,
-        `${item[0].reverse().join('')}${item[1].reverse().join('')}`,
-        `${item[1].reverse().join('')}${item[0].join('')}`,
-        `${item[1].reverse().join('')}${item[0].reverse().join('')}`,
-      ].filter(el => Number(el) < 2359 && el[2] < 6)
-    )
-  );
-  if (res === 0) return `00:00`;
-  const hour = String(res).slice(0, 2);
-  const minutes = String(res).slice(2);
-  return `${hour}:${minutes}`;
+const permutator = inputArr => {
+  let result = [];
+
+  const permute = (arr, m = []) => {
+    if (!arr.length) result.push(m);
+    for (let i = 0; i < arr.length; i++) {
+      let curr = arr.slice();
+      let next = curr.splice(i, 1);
+      console.log(next);
+      permute(curr, [...m, next]);
+    }
+  };
+
+  permute(inputArr);
+
+  return result;
+};
+
+function latestClock(a, b, c, d) {
+  const combinations = permutator([...arguments])
+    .map(el => el.join(''))
+    .filter(el => Number(el) <= 2359 && Number(el.slice(2)) <= 59);
+
+  const num = Math.max(...combinations);
+
+  const timeString = String(num).padStart(4, '0');
+
+  return `${timeString.slice(0, 2)}:${timeString.slice(2)}`;
 }
+
 console.log(latestClock(1, 9, 8, 3), '19:38');
 console.log(latestClock(9, 1, 2, 5), '21:59');
 console.log(latestClock(1, 2, 8, 9), '19:28');
