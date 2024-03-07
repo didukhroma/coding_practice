@@ -67,3 +67,4 @@ console.log('kyu-7');
 // import './resistorColorCodes';//*--done
 // import './catYearsDogYears.js';//*--done
 // import './fromAtoZ';//*--done
+// import './stonePickaxeCrafting';//*--done
