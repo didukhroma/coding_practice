@@ -69,3 +69,4 @@ console.log('kyu-7');
 // import './fromAtoZ';//*--done
 // import './stonePickaxeCrafting';//*--done
 // import './numberInDifferentSystems';//*--done
+// import './sumOfArraySingles';//*--done
