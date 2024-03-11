@@ -44,3 +44,4 @@ console.log('kyu-8');
 // import './whosNext.js'; //! must comlete
 // import './bigTooSmall'; //*--done
 // import './daysInTheYear';//*--done
+// import './finishGuessTheNumberGame'//*--done
