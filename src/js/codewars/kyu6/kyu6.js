@@ -36,4 +36,5 @@ console.log('kyu-6');
 // import './done/roomMates'; //*--done
 // import './done/findTheOddInt';  //*--done
 // import './done/separateTheWheatFromTheChaff'; //*--done
-// impor./done/sortStringsByMostContiguousVowelsels'; //*--done
+// import ./done/sortStringsByMostContiguousVowelsels'; //*--done
+// import './done/commonArrayElements'; //*--done
