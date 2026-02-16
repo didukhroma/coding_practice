@@ -86,3 +86,4 @@ console.log('kyu-7');
 // import './done/kiss'; //*--done
 // import './done/findTheSquares'; //*--done
 // import './done/findTheCapitals'; //*--done
+// import './done/sequenceToOne'; //*--done
