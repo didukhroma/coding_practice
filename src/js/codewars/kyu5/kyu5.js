@@ -1,5 +1,6 @@
 console.log('kyu-5');
-// import './stringIncrement'; //* --done
-// import './zeroToEnd.js';//* --done
-// import './weightForWeight'; //*--done
-// import './hexToRGB';//*--done
+// import './done/stringIncrement';
+// import './done/zeroToEnd.js';
+// import './done/weightForWeight';
+// import './done/hexToRGB';
+// import './done/firstNonRepeatingLetter';
