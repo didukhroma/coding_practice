@@ -10,10 +10,10 @@
     "scommit": " git status  && git commit -a -m `kyu-6-longestPalindrome`",
     "dcommitfive": "git status  && git add . && git commit  -m `kyu-5-hexStringToRGB-done` && git push origin main",
     "dcommitsix": "git status  && git add . && git commit  -m `kyu-6-theLatestClock-done` && git push origin main",
-    "dcommitseven": "git status  && git add . && git commit -m `kyu-7-fridgeOrganizer-done` && git push origin main",
+    "dcommitseven": "git status  && git add . && git commit -m `kyu-7-findMissing-done` && git push origin main",
     "dcommiteight": "git status  && git add . && git commit  -m `kyu-8-finishGuessTheNumberGame-done` && git push origin main",
     "dcommitit": "git status  && git add . && git commit  -m `interesting-task-decodeMessage-done` && git push origin main",
-    "dcommitsevendate": "git status && git add . && git commit --date=\"2026-02-19 10:10:10\" -m \"kyu-7-dominator-done\" && git push origin main",
+    "dcommitsevendate": "git status && git add . && git commit --date=\"2026-02-18 10:10:10\" -m \"kyu-7-findMissing-done\" && git push origin main",
     "dcommit_freecodecamp": "git status  && git add . && git commit  -m `freecodecamp-permutations-done` && git push origin main",
     "push": "git push origin main",
     "lint": "eslint --ext .js,.ts ."

@@ -75,4 +75,5 @@ console.log('kyu-7');
 // import './power';
 // import './hasOneChar';
 // import './dominator';
-import './fridgeOrganizer';
+// import './fridgeOrganizer';
+import './findMissing';
