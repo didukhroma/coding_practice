@@ -74,3 +74,4 @@ console.log('kyu-7');
 // import './summingANumberDigits';//*--done
 // import './power';
 // import './hasOneChar';
+import './dominator';
