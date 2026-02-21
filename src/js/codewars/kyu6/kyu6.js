@@ -28,3 +28,4 @@ console.log('kyu-6');
 // import './isomorphicWords';//*--done
 // import './houseOfCards';
 // import './indexOfArrayInArray';//*--done
+// import './vowelRecognition';

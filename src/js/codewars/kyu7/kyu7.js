@@ -72,3 +72,5 @@ console.log('kyu-7');
 // import './sumOfArraySingles';//*--done
 // import './reverseFactorials';//!--------------------???????
 // import './summingANumberDigits';//*--done
+// import './power';
+// import './hasOneChar';
