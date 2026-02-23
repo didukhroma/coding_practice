@@ -48,3 +48,4 @@ console.log('kyu-8');
 // import './trainingJS12'//*--done
 // import './trainingJS5';//*--done
 // import './geometryBasics'//*--done
+// import './done/onlineRPGQualifyingStage'; //*--done
