@@ -13,7 +13,7 @@
     "dcommitseven": "git status  && git add . && git commit -m `kyu-7-findTheSquares-done` && git push origin main",
     "dcommiteight": "git status  && git add . && git commit  -m `kyu-8-finishGuessTheNumberGame-done` && git push origin main",
     "dcommitit": "git status  && git add . && git commit  -m `interesting-task-decodeMessage-done` && git push origin main",
-    "dcommitdate": "git status && git add . && git commit --date=\"2026-03-02 10:10:10\" -m \"kyu-7-kiss-done\" && git push origin main",
+    "dcommitdate": "git status && git add . && git commit --date=\"2026-03-01 10:10:10\" -m \"kyu-7-findTheCapitals-done\" && git push origin main",
     "dcommit_freecodecamp": "git status  && git add . && git commit  -m `freecodecamp-permutations-done` && git push origin main",
     "push": "git push origin main",
     "lint": "eslint --ext .js,.ts ."
