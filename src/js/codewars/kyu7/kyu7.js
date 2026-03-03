@@ -82,3 +82,4 @@ console.log('kyu-7');
 // import './done/basicCalculator';
 // import './done/stalinSort'; //*--done
 // import './done/vowelCount'; //*--done
+// import './done/disemvowelTrolls';   //*--done
