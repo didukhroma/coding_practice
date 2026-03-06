@@ -1,5 +1,5 @@
 const frame = (text, char) => {
-  const sortedText = text.toSorted((a, b) => b.length - a.length);
+  const sortedText = [...text].sort((a, b) => b.length - a.length);
   const longestWord = sortedText[0].length;
   const delimiter = char.repeat(longestWord + 4);
   const res = text.map(

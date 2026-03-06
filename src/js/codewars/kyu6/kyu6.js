@@ -32,3 +32,4 @@ console.log('kyu-6');
 // import './done/multiply3Or5'; //*--done
 // import './done/basics03StringNumbersCalculation'; //*--done
 // import './done/createAFrame'; //*--done
+// import './done/threeAddedCharacters'; //*--done
