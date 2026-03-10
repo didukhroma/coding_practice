@@ -35,3 +35,4 @@ console.log('kyu-6');
 // import './done/threeAddedCharacters'; //*--done
 // import './done/roomMates'; //*--done
 // import './done/findTheOddInt';  //*--done
+// import './done/separateTheWheatFromTheChaff'; //*--done
