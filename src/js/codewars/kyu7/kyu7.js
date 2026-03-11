@@ -84,3 +84,4 @@ console.log('kyu-7');
 // import './done/vowelCount'; //*--done
 // import './done/disemvowelTrolls';   //*--done
 // import './done/kiss'; //*--done
+// import './done/findTheSquares'; //*--done
