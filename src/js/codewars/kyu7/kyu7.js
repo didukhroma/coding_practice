@@ -90,3 +90,4 @@ console.log('kyu-7');
 // import './done/findAnEmployeesRole'; //*--done
 // import './done/monkeyTennis';//*--done
 // import './done/simpleStringReversal3'; //*--done
+// import './done/magicSumOf3s'; //*--done
