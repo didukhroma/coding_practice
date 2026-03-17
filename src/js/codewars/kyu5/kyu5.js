@@ -4,3 +4,4 @@ console.log('kyu-5');
 // import './done/weightForWeight';
 // import './done/hexToRGB';
 // import './done/firstNonRepeatingLetter';
+// import './done/meanSquareError'; //*--done
