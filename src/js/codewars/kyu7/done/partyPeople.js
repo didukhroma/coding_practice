@@ -3,3 +3,4 @@ function partyPeople(party) {
   if (party.length === filtered.length) return party.length;
   return partyPeople(filtered);
 }
+console.log(partyPeople([4, 5, 4, 1]));
