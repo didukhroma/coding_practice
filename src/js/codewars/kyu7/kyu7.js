@@ -96,4 +96,5 @@ console.log('kyu-7');
 // import './done/adaptiveSecuritySeystem'; //*--done
 // import './done/stringsStrings'; //*--done
 // import './done/alwaysPerfect'; //*--done
+// import './done/partyPeople'; //*--done
 import './peaksAndValleys';
