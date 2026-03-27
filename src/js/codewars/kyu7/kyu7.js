@@ -92,11 +92,12 @@ console.log('kyu-7');
 // import './done/partyPeople'; //*--done
 // import './done/correctTheDateString'; //*--done
 // import './done/goingToTheCinema'; //*--done
+// import './done/positionsAverage'; //*--done
+// import './done/sortAndTransform';//*--done
 // import './done/spiralingBox'; //!---------
 // import './done/decrypThisSchoolCipher';//todo: must be complete !!!
 // import './done/reverseFactorials';//!--------------------???????
 // import './done/basicMathAddOrSubtract'; //!----------
 // import './done/findYourCaterer';//!-don't complete this kata
-// import './done/sortAndTransform';//*--done
 // import './done/findTheVowels'; //!todo done must to understand
 import './peaksAndValleys';
