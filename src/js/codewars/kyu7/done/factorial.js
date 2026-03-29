@@ -1,9 +1,20 @@
 console.log('kyu-7-factorial');
 
+// recursive
+// function factorial(n) {
+//   // Calculate the factorial here
+//   if (n < 0 || n > 12) throw new RangeError('ArgumentOutOfRangeException');
+//   return !n ? 1 : n * factorial(n - 1);
+// }
+
+// memoized factorial
+const cache = {};
 function factorial(n) {
-  // Calculate the factorial here
-  if (n < 0 || n > 12) throw new RangeError('ArgumentOutOfRangeException');
-  return !n ? 1 : n * factorial(n - 1);
+  if (n <= 1) return 1;
+  if (cache[n]) return cache[n];
+  cache[n] = n * factorial(n - 1);
+  return cache[n];
+  //your code here
 }
 
 console.log(factorial(0), 1, 'factorial for 0 is 1');

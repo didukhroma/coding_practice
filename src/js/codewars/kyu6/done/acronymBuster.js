@@ -15,7 +15,7 @@ function acronymBuster(string) {
     return `${suggestion} is an acronym. I do not like acronyms. Please remove them from your email.`;
   const res = string
     .replaceAll(/[A-Z]{3,}/g, el => knownAcronyms[el])
-    .replaceAll(/\.\s+\w/g, el => el.slice(0, 2) + el.slice(2).toUpperCase());
+    .replaceAll(/\.\s+\w/g, el => el.toUpperCase());
 
   return res[0].toUpperCase() + res.slice(1);
 }
