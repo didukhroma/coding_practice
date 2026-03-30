@@ -90,6 +90,8 @@ console.log('kyu-7');
 // import './done/stringsStrings'; //*--done
 // import './done/alwaysPerfect'; //*--done
 // import './done/partyPeople'; //*--done
+// import './done/correctTheDateString'; //*--done
+// import './done/goingToTheCinema'; //*--done
 // import './done/spiralingBox'; //!---------
 // import './done/decrypThisSchoolCipher';//todo: must be complete !!!
 // import './done/reverseFactorials';//!--------------------???????
@@ -97,5 +99,4 @@ console.log('kyu-7');
 // import './done/findYourCaterer';//!-don't complete this kata
 // import './done/sortAndTransform';//*--done
 // import './done/findTheVowels'; //!todo done must to understand
-// import './done/correctTheDateString'; //*--done
 import './peaksAndValleys';
