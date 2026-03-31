@@ -1,6 +1,5 @@
 console.log('kyu-7');
 // import './done/elevatorDistance'; //* --done
-// import './done/decrypThisSchoolCipher';//todo: must be complete !!!
 // import './done/twoToOneString';//* --done
 // import './done/debugSumOfDigits';//* --done
 // import './done/indexedCapitalization'; //* --done
@@ -29,18 +28,14 @@ console.log('kyu-7');
 // import './done/lastDigitsOfNumber';//*--done
 // import './done/stringEndsWith';//*--done
 // import './done/theOfficeI';//*--done
-// import './done/findYourCaterer';//!-don't complete this kata
 // import './done/timeForMilkAndCookies'//*--done
 // import './done/fibonacciFizzBuzz';//*--done
 // import './done/tripleShiftianNumbers';
 // import './done/quickSum'
 // import './done/centroid';
-// import './done/spiralingBox'; //!---------
 // import './done/calculateMealTotal';
 // import './done/isEveryValueInArrayAnArray';//*--done
 // import './done/isTriangle';//*--done
-// import './done/sortAndTransform';//*--done
-// import './done/findTheVowels';//todo done must to understand
 // import './done/switcherNumbersToLetters'//*--done
 // import './done/findDigitOfNumber';//*--done
 // import './done/printerErrors';//*--done
@@ -56,7 +51,6 @@ console.log('kyu-7');
 // import './done/evenOrOdd';//*--done
 // import './done/powerOfFour'; //*--done
 // import './done/catchSignChange';//*--done
-// import './done/basicMathAddOrSubtract'; //!----------
 // import './done/easyWallpaper'//*--done
 // import './done/catAndMouse';//*--done
 // import './done/howManyArguments.js';//*--done
@@ -70,7 +64,6 @@ console.log('kyu-7');
 // import './done/stonePickaxeCrafting';//*--done
 // import './done/numberInDifferentSystems';//*--done
 // import './done/sumOfArraySingles';//*--done
-// import './done/reverseFactorials';//!--------------------???????
 // import './done/summingANumberDigits';//*--done
 // import './done/power';
 // import './done/hasOneChar';
@@ -97,4 +90,12 @@ console.log('kyu-7');
 // import './done/stringsStrings'; //*--done
 // import './done/alwaysPerfect'; //*--done
 // import './done/partyPeople'; //*--done
+// import './done/spiralingBox'; //!---------
+// import './done/decrypThisSchoolCipher';//todo: must be complete !!!
+// import './done/reverseFactorials';//!--------------------???????
+// import './done/basicMathAddOrSubtract'; //!----------
+// import './done/findYourCaterer';//!-don't complete this kata
+// import './done/sortAndTransform';//*--done
+// import './done/findTheVowels'; //!todo done must to understand
+// import './done/correctTheDateString'; //*--done
 import './peaksAndValleys';
