@@ -95,6 +95,7 @@ console.log('kyu-7');
 // import './done/positionsAverage'; //*--done
 // import './done/sortAndTransform';//*--done
 // import './done/howManyLonelyLetters'; //*---done
+// import './done/shipOfTheseus'; //*--done
 // import './done/spiralingBox'; //!---------
 // import './done/decrypThisSchoolCipher';//todo: must be complete !!!
 // import './done/reverseFactorials';//!--------------------???????
