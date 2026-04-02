@@ -94,6 +94,7 @@ console.log('kyu-7');
 // import './done/goingToTheCinema'; //*--done
 // import './done/positionsAverage'; //*--done
 // import './done/sortAndTransform';//*--done
+// import './done/howManyLonelyLetters'; //*---done
 // import './done/spiralingBox'; //!---------
 // import './done/decrypThisSchoolCipher';//todo: must be complete !!!
 // import './done/reverseFactorials';//!--------------------???????
