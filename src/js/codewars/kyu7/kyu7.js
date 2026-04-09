@@ -98,6 +98,7 @@ console.log('kyu-7');
 // import './done/shipOfTheseus'; //*--done
 // import './done/chainMe'; //*--done
 // import './done/couponCode'; //*--done
+// import './done/maxTripleSet'; //*--done
 // import './done/spiralingBox'; //!---------
 // import './done/decrypThisSchoolCipher';//todo: must be complete !!!
 // import './done/reverseFactorials';//!--------------------???????
